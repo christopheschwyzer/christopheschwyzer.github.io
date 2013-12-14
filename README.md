@@ -1,4 +1,4 @@
 christopheschwyzer.github.io
 ============================
 
-personal website
+Personal [jekyll](http://jekyllrb.com/) powered website
