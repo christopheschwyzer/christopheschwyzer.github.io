@@ -42,4 +42,18 @@ strong {
 .wrap {
   max-width: 900px;
   margin: 0 auto;
+  padding: 0 7px;
+}
+@media (min-width: 600px) {
+  .wrap {
+    padding: 0 15px;
+  }
+}
+#header .logo {
+  display: inline-block;
+  width: 300px;
+  height: 70px;
+  background: url('/img/logo.svg') no-repeat;
+  background-size: contain;
+  text-indent: -9999px;
 }
