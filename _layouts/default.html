@@ -1,88 +1,13 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-		<title>{{ site.name }} - {{ page.title }}</title>
-
-		<meta name="description" content="Christophe Schwyzer: Online Portfolio and Blog">
-		<meta name="keywords" content="art, web, webdesign, game, gamedesign, blog, html5, css3, unity3d">
-
-		<meta name="msapplication-TileColor" content="#fff">
-		<meta name="msapplication-TileImage" content="/img/tileImage.png">
-		<meta name="apple-mobile-web-app-capable" content="yes">
-
-		<link rel="apple-touch-icon" href="/img/touch-icon-57.png">
-		<link rel="apple-touch-icon" sizes="72x72" href="/img/touch-icon-72.png">
-		<link rel="apple-touch-icon" sizes="76x76" href="/img/touch-icon-76.png">
-		<link rel="apple-touch-icon" sizes="114x114" href="/img/touch-icon-114.png">
-		<link rel="apple-touch-icon" sizes="120x120" href="/img/touch-icon-120.png">
-		<link rel="apple-touch-icon" sizes="144x144" href="/img/touch-icon-144.png">
-		<link rel="apple-touch-icon" sizes="152x152" href="/img/touch-icon-152.png">
-		<link rel="shortcut icon" href="/img/favicon.ico">
-
-		<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
-
-		<link rel="stylesheet" href="/css/normalize.css" />
-		<link rel="stylesheet" href="/css/syntax.css">
-		<link rel="stylesheet" href="/css/main.css">
-	</head>
-	<body class="page-{{ page.slug }}">
-		<header class="header">
-			<div class="sheet">
-				<h1 class="title"><a href="/">{{ site.name }}</a></h1>
-				<nav role="navigation">
-					<ul class="menu" role="menu">
-						<li class="menu-item {% if page.slug == 'home' %}active{% endif %}"><a class="menu-item-link" href="/">Home</a></li>
-						<li class="menu-item {% if page.slug == 'blog' %}active{% endif %}"><a class="menu-item-link" href="/blog">Blog</a></li>
-						<li class="menu-item {% if page.slug == 'portfolio' %}active{% endif %}"><a class="menu-item-link" href="/portfolio">Portfolio</a></li>
-					</ul>
-				</nav>
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<main id="content">
+			<div class="wrap">
+				{{ content }}
 			</div>
-		</header>
-
-		<section id="main">
-			{{ content }}
-		</section>
-
-		<footer class="footer">
-			<div class="sheet">
-				<ul class="socialConnect">
-					<li class="contact dark twitter">
-						<a href="//twitter.com/stophecom" title="Twitter">@stophecom</a>
-					</li>
-					<li class="contact dark google">
-						<a href="//plus.google.com/+ChristopheSchwyzer/" rel="publisher">Google+</a>
-					</li>
-					<li class="contact dark facebook">
-						<a href="//www.facebook.com/christopheschwyzer">Facebook</a>
-					</li>
-					<li class="contact dark github">
-						<a href="//github.com/christopheschwyzer/" title="Github">Github</a>
-					</li>
-					<li class="contact dark linkedIn">
-						<a href="//ch.linkedin.com/pub/christophe-schwyzer/3b/919/19b/">LinkedIn</a>
-					</li>
-					<li class="contact dark mail">
-						<a href="mailto:8b24e523@opayq.com" title="Email">Email</a>
-					</li>
-				</ul>
-			</div>
-		</footer>
+		</main>
+		{% include footer.html %}
 	</body>
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-27807789-1']);
-		_gaq.push(['_trackPageview']);
-
-		(function() {
-			var ga = document.createElement('script');
-			ga.type = 'text/javascript';
-			ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
 </html>
