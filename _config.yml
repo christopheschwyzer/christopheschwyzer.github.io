@@ -1,3 +1,12 @@
+# Site settings
 name: Christophe Schwyzer
-markdown: redcarpet
-pygments: true
+title: Stophe
+email: hello@stophe.com
+description: "Christophe Schwyzer's Interactive Portfolio"
+baseurl: ""
+url: "http://www.stophe.com"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
