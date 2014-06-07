@@ -3,6 +3,7 @@
 @colorBrand: #00a58b;
 @colorFg: #333;
 @colorFgSubtle: lighten(@colorFg, 20);
+@colorBorder: lighten(@colorFg, 60);
 @colorBg: hsl(0, 0%, 97%);
 @colorLink: rgb(44, 135, 173);
 
@@ -11,11 +12,19 @@
 @breakpointSmall: 600px;
 
 @fontSize: 1em;
-@fontSizeSmall: .8rem;
-@fontSizeTiny: .6rem;
+@fontSizeSmall: .9rem;
+@fontSizeTiny: .85rem;
 
 *, *:before, *:after {
 	.box-sizing(border-box);
+}
+
+.nowrap {
+	overflow: hidden;
+	display: block;
+	max-width: 100%;
+	white-space: nowrap;
+	text-overflow: ellipsis;;
 }
 
 html, body {
@@ -54,7 +63,7 @@ strong {
 }
 
 .wrap {
-	max-width: 900px;
+	max-width: 990px;
 	margin: 0 auto;
 	padding: 0 7px;
 
@@ -71,5 +80,65 @@ strong {
 		background: url('/img/logo.svg') no-repeat;
 		background-size: contain;
 		text-indent: -9999px;
+	}
+}
+
+#content {
+	.portfolio {
+
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+		}
+
+		&.container-fluid, .project-wrapper {
+			padding-right: 5px !important;
+			padding-left: 5px !important;
+		}
+
+		.project-wrapper {
+			margin-bottom: 10px;
+		}
+
+		.project {
+			display: block;
+			border: 1px solid @colorBorder;
+			background-color: white;
+			text-decoration: none;
+			color: @colorFgSubtle;
+
+			&:hover {
+				color: darken(@colorFgSubtle, 5);
+			}
+
+			img {
+				display: block;
+				width: 100%;
+				height: auto;
+			}
+		}
+
+		.project-meta {
+			padding: 7px;
+
+
+			.description {
+				font-size: @fontSizeTiny;
+			}
+
+			.date {
+				float: right;
+				margin-left: 5px;
+			}
+			.tag {
+				display: inline;
+				margin-right: 5px;
+
+				&:before {
+					content: "#";
+				}
+			}
+		}
 	}
 }
