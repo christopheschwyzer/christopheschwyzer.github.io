@@ -11,7 +11,7 @@
 
 @breakpointSmall: 600px;
 
-@fontSize: 1em;
+@fontSize: 16px;
 @fontSizeSmall: .9rem;
 @fontSizeTiny: .85rem;
 
@@ -31,11 +31,14 @@ html, body {
 	height: 100%;
 }
 
-body {
+html {
+	font-size: @fontSize;
 	font-family: @fontDefault;
-	font-size: 16px;
 	line-height: 1.5;
 	font-weight: 300;
+}
+
+body {
 	background-color: @colorBg;
 }
 
@@ -65,27 +68,48 @@ strong {
 .wrap {
 	max-width: 990px;
 	margin: 0 auto;
-	padding: 0 7px;
+	padding: 0 10px;
 
 	@media (min-width: @breakpointSmall) {
 		padding: 0 15px;
 	}
 }
 
+.tag {
+	display: inline;
+	margin-right: 5px;
+	color: @colorFgSubtle;
+
+	&:before {
+		content: "#";
+	}
+}
+
 #header {
+	padding: 12px 0;
+
 	.logo {
 		display: inline-block;
-		width: 300px;
-		height: 70px;
-		background: url('/img/logo.svg') no-repeat;
-		background-size: contain;
-		text-indent: -9999px;
+		margin-right: 12px;
+		text-transform: uppercase;
+		color: @colorFg;
+		font-size: 1.2rem;
+
+		&:hover {
+			text-decoration: none;
+			color: @colorFgSubtle;
+		}
 	}
 }
 
 #content {
-	.portfolio {
+	margin-bottom: 50px;
 
+	.wrap {
+		padding: 0;
+	}
+
+	.portfolio {
 		ul {
 			margin: 0;
 			padding: 0;
@@ -131,14 +155,40 @@ strong {
 				float: right;
 				margin-left: 5px;
 			}
-			.tag {
-				display: inline;
-				margin-right: 5px;
+		}
+	}
+}
 
-				&:before {
-					content: "#";
-				}
+#footer {
+	text-align: center;
+
+	.social {
+		.display(flex);
+		.justify-content(center);
+
+		a {
+			display: block;
+			margin: 5px;
+			padding: 12px;
+			text-decoration: none;
+			background-color: darken(@colorBg, 6);
+			border-radius: 50%;
+			line-height: 1;
+
+			&:hover {
+				background-color: darken(@colorBg, 9);
 			}
 		}
+
+		svg {
+			width: 30px;
+			height: 30px;
+		}
+	}
+
+	.copyright {
+		padding: 12px 0;
+		text-transform: uppercase;
+		color: @colorFgSubtle;
 	}
 }
