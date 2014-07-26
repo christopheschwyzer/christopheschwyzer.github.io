@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Old Man"
+date:   2009-01-01
+tags: [painting, illustration]
+preview: "painting"
+---
+
+Handmade stuff.
+
+![Old Man](/img/posts/media/OldMan1.jpg)
+![Old Man](/img/posts/media/OldMan2.jpg)
+![Old Man](/img/posts/media/OldMan3.jpg)
