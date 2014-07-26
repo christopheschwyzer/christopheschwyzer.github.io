@@ -31,8 +31,16 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: 100%;
   font-weight: 400;
+}
+h1 {
+  font-size: 1.3rem;
+}
+h2 {
+  font-size: 1.1rem;
+}
+h3 {
+  font-size: 1rem;
 }
 a {
   color: #2a7ae2;
@@ -61,30 +69,66 @@ strong {
 .tag {
   display: inline;
   margin-right: 5px;
-  color: #666666;
 }
 .tag:before {
   content: "#";
 }
 #header {
-  padding: 12px 0;
+  margin-bottom: 40px;
+  padding: 7px 0;
+  background-color: #474747;
 }
 #header .logo {
   display: inline-block;
   margin-right: 12px;
   text-transform: uppercase;
-  color: #333333;
+  color: #f2f2f2;
   font-size: 1.2rem;
 }
 #header .logo:hover {
   text-decoration: none;
-  color: #666666;
+  color: ligthen(#f2f2f2, 10);
+}
+#header .tag {
+  color: #cccccc;
 }
 #content {
   margin-bottom: 50px;
 }
 #content .wrap {
   padding: 0;
+}
+#content .post {
+  padding: 0 15px;
+}
+#content .post .meta {
+  margin-bottom: 30px;
+}
+#content .post .meta ul {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+#content .post img,
+#content .post iframe {
+  margin-bottom: 50px;
+}
+#content .post img {
+  padding: 5px;
+  max-width: 100%;
+  max-height: 400px;
+  background-color: white;
+  border: 1px solid #dddddd;
+}
+@media (min-height: 600px) {
+  #content .post img {
+    max-height: 500px;
+  }
+}
+@media (min-height: 1000px) {
+  #content .post img {
+    max-height: 900px;
+  }
 }
 #content .portfolio ul {
   margin: 0;
@@ -104,10 +148,20 @@ strong {
   border: 1px solid #cccccc;
   background-color: white;
   text-decoration: none;
-  color: #666666;
+  color: #333333;
+  -webkit-transition: 200ms;
+  -moz-transition: 200ms;
+  -o-transition: 200ms;
+  transition: 200ms;
 }
-#content .portfolio .project:hover {
-  color: #595959;
+#content .portfolio .project:hover,
+#content .portfolio .project:focus {
+  -webkit-transform: scale(1.02);
+  -moz-transform: scale(1.02);
+  -o-transform: scale(1.02);
+  -ms-transform: scale(1.02);
+  transform: scale(1.02);
+  border-color: #999999;
 }
 #content .portfolio .project img {
   display: block;
@@ -118,7 +172,8 @@ strong {
   padding: 7px;
 }
 #content .portfolio .project-meta .description {
-  font-size: 0.85rem;
+  font-size: 0.7rem;
+  color: #999999;
 }
 #content .portfolio .project-meta .date {
   float: right;
@@ -152,11 +207,12 @@ strong {
   background-color: #e0e0e0;
 }
 #footer .social svg {
+  display: block;
   width: 30px;
   height: 30px;
 }
 #footer .copyright {
   padding: 12px 0;
   text-transform: uppercase;
-  color: #666666;
+  color: #808080;
 }

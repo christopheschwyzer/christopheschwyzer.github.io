@@ -2,10 +2,12 @@
 
 @colorBrand: #00a58b;
 @colorFg: #333;
-@colorFgSubtle: lighten(@colorFg, 20);
+@colorFgSubtle: lighten(@colorFg, 30);
 @colorBorder: lighten(@colorFg, 60);
 @colorBg: hsl(0, 0%, 97%);
 @colorLink: rgb(44, 135, 173);
+@colorBgHeader: #474747;
+@colorFgHeader: #f2f2f2;
 
 @fontDefault: "Helvetica Neue", Helvetica, Arial, sans-serif;
 
@@ -13,7 +15,7 @@
 
 @fontSize: 16px;
 @fontSizeSmall: .9rem;
-@fontSizeTiny: .85rem;
+@fontSizeTiny: .7rem;
 
 *, *:before, *:after {
 	.box-sizing(border-box);
@@ -43,8 +45,19 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-size: 100%;
 	font-weight: 400;
+}
+
+h1 {
+	font-size: 1.3rem;
+}
+
+h2 {
+	font-size: 1.1rem;
+}
+
+h3 {
+	font-size: 1rem;
 }
 
 a {
@@ -78,7 +91,6 @@ strong {
 .tag {
 	display: inline;
 	margin-right: 5px;
-	color: @colorFgSubtle;
 
 	&:before {
 		content: "#";
@@ -86,19 +98,25 @@ strong {
 }
 
 #header {
-	padding: 12px 0;
+	margin-bottom: 40px;
+	padding: 7px 0;
+	background-color: @colorBgHeader;
 
 	.logo {
 		display: inline-block;
 		margin-right: 12px;
 		text-transform: uppercase;
-		color: @colorFg;
+		color: @colorFgHeader;
 		font-size: 1.2rem;
 
 		&:hover {
 			text-decoration: none;
-			color: @colorFgSubtle;
+			color: ligthen(@colorFgHeader, 10);
 		}
+	}
+
+	.tag {
+		color: darken(@colorFgHeader, 15);
 	}
 }
 
@@ -107,6 +125,41 @@ strong {
 
 	.wrap {
 		padding: 0;
+	}
+
+	.post {
+		padding: 0 15px;
+
+		.meta {
+			margin-bottom: 30px;
+
+			ul {
+				margin: 0;
+				padding: 0;
+				display: inline;
+			}
+
+		}
+
+		img, iframe {
+			margin-bottom: 50px;
+		}
+
+		img {
+			padding: 5px;
+			max-width: 100%;
+			max-height: 400px;
+			background-color: white;
+			border: 1px solid #dddddd;
+
+			@media(min-height: 600px) {
+				max-height: 500px;
+			}
+
+			@media(min-height: 1000px) {
+				max-height: 900px;
+			}
+		}
 	}
 
 	.portfolio {
@@ -130,10 +183,12 @@ strong {
 			border: 1px solid @colorBorder;
 			background-color: white;
 			text-decoration: none;
-			color: @colorFgSubtle;
+			color: @colorFg;
+			.transition(200ms);
 
-			&:hover {
-				color: darken(@colorFgSubtle, 5);
+			&:hover, &:focus {
+				.transform(scale(1.02));
+				border-color: darken(@colorBorder, 20);
 			}
 
 			img {
@@ -146,9 +201,9 @@ strong {
 		.project-meta {
 			padding: 7px;
 
-
 			.description {
 				font-size: @fontSizeTiny;
+				color: lighten(@colorFgSubtle, 10);
 			}
 
 			.date {
@@ -181,6 +236,7 @@ strong {
 		}
 
 		svg {
+			display: block;
 			width: 30px;
 			height: 30px;
 		}
