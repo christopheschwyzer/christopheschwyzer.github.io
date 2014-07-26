@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Noir"
+date:   2009-01-01
+tags: [illustration]
+preview: "noir"
+---
+
+Some old comic drafts.
+
+![Noir](/img/posts/media/Noir1.jpg)
+![Noir](/img/posts/media/Noir2.jpg)
+![Noir](/img/posts/media/Noir3.jpg)
+![Noir](/img/posts/media/Noir4.png)
+![Noir](/img/posts/media/Noir5.png)
+
+## Resources
+- Photoshop

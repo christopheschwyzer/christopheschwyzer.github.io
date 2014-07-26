@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Dreispitz21"
+date:   2011-01-01
+tags: [3d]
+preview: "dreispitz21"
+---
+
+Futuristic model for the headquarters of the Academy of Art and Design Basel.
+
+<iframe width="853" height="480" src="http://www.youtube.com/embed/A3warSBSEPg" frameborder="0" allowfullscreen></iframe>
+
+## Resources
+- animated with google sketch up 8
+- edited with adobe premiere cs4
+- effects with adobe after effects cs4
+- sound by david holmes – yen on a carousel & stealing the stock
