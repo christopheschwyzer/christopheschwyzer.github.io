@@ -24,6 +24,7 @@ html {
 }
 body {
   background-color: #f7f7f7;
+  font-size: 16px;
 }
 h1,
 h2,
@@ -103,14 +104,26 @@ strong {
 }
 #content .post .meta {
   margin-bottom: 30px;
+  font-size: 0.9rem;
+  color: #808080;
 }
 #content .post .meta ul {
   margin: 0;
   padding: 0;
   display: inline;
 }
+#content .post .meta .tag {
+  margin-right: 0;
+}
+#content .post .meta .tag:before {
+  content: '';
+}
+#content .post .meta .tag:not(:last-of-type):after {
+  content: ',';
+}
 #content .post img,
 #content .post iframe {
+  max-width: 100%;
   margin-bottom: 15px;
 }
 @media (min-width: 600px) {
