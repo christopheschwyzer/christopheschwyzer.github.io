@@ -123,6 +123,7 @@ strong {
 }
 #content .post img,
 #content .post iframe {
+  max-width: 100%;
   margin-bottom: 15px;
 }
 @media (min-width: 600px) {
