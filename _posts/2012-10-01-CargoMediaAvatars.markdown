@@ -6,6 +6,6 @@ tags: [illustration, avatar]
 preview: "panda"
 ---
 
-An Avatar for every employee at Cargo Media. See in action on [cargomedia.ch](cargomedia.ch).
+An Avatar for every employee at Cargo Media. See in action on [www.cargomedia.ch](http://www.cargomedia.ch).
 
 ![Avatars Screenshot](/img/posts/media/CargoMediaAvatars.png)
