@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Frontâle Festival"
+date:   2015-09-19
+tags: [CI, website]
+preview: "frontale"
+---
+
+CI, Website, Shirts for [Frontâle Festival](http://www.frontale.ch).
+
+![Frontale](/img/posts/media/Frontale-header.png)
+![Frontale](/img/posts/media/Frontale-rooster.png)
+![Frontale](/img/posts/media/Frontale-Shirts.jpg)
+
+## Resources
+- Illustrator

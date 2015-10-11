@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Schiff Mode "
+title:  "Schiff Mode"
 date:   2014-07-01
 tags: [logo]
 preview: "schiffmode"
