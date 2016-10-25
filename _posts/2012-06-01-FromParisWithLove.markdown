@@ -2,7 +2,7 @@
 layout: post
 title:  "From Paris with Love"
 date:   2012-06-01
-tags: [photography]
+tags: [Photography]
 preview: "photography-paris.png"
 ---
 

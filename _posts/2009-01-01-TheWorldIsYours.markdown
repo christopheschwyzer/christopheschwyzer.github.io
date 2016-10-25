@@ -2,7 +2,7 @@
 layout: post
 title:  "The World is Yours"
 date:   2009-01-01
-tags: [photoshop, illustration]
+tags: [Photoshop, Illustration]
 preview: "world-is-yours.jpg"
 ---
 

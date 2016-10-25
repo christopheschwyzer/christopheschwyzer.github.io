@@ -2,7 +2,7 @@
 layout: post
 title:  "LED Paper Lamp"
 date:   2009-01-01
-tags: [paper, lamp, LED]
+tags: [Paper, Lamp, LED]
 preview: "led.png"
 ---
 

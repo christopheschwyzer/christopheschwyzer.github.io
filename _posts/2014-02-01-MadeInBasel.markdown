@@ -2,7 +2,7 @@
 layout: post
 title:  "Made in Basel"
 date:   2014-02-01
-tags: [logo, website]
+tags: [Logo, Webdesign]
 preview: "made-in-basel.png"
 ---
 

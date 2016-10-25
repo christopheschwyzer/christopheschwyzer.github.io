@@ -2,7 +2,7 @@
 layout: post
 title:  "Sculpture"
 date:   2009-01-01
-tags: [sculpture]
+tags: [Sculpture]
 preview: "sculpture.png"
 ---
 

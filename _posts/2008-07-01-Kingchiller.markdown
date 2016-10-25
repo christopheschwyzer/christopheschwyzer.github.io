@@ -2,7 +2,7 @@
 layout: post
 title:  "Kingchiller"
 date:   2008-07-01
-tags: [label, shirts]
+tags: [Logo, Shirts]
 preview: "kingchiller.png"
 ---
 

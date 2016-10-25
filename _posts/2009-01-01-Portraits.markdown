@@ -2,7 +2,7 @@
 layout: post
 title:  "Portraits"
 date:   2009-01-01
-tags: [illustration]
+tags: [Illustration]
 preview: "portrait.jpg"
 ---
 

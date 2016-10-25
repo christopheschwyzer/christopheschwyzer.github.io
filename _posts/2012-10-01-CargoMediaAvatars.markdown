@@ -2,7 +2,7 @@
 layout: post
 title:  "Cargo Media Avatars"
 date:   2012-10-01
-tags: [illustration, avatar]
+tags: [Illustration]
 preview: "cargomedia-avatars.png"
 ---
 

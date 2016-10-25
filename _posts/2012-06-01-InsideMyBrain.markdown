@@ -2,7 +2,7 @@
 layout: post
 title:  "Inside my Brain"
 date:   2012-06-01
-tags: [MRI, visualisation]
+tags: [MRI, Visualisation]
 preview: "brain.png"
 ---
 

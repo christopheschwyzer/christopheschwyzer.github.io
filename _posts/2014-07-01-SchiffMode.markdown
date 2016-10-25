@@ -2,7 +2,7 @@
 layout: post
 title:  "Schiff Mode"
 date:   2014-07-01
-tags: [logo]
+tags: [Logo]
 preview: "schiff-mode.png"
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Cargo Media CI"
 date:   2012-06-01
-tags: [logo, CI]
+tags: [Logo, CI, Webdesign]
 preview: "cargomedia.png"
 ---
 

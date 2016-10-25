@@ -2,7 +2,7 @@
 layout: post
 title:  "Lost and Found"
 date:   2012-06-01
-tags: [photography]
+tags: [Photography]
 preview: photography-lost-and-found.jpg
 ---
 

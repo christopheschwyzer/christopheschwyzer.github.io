@@ -2,7 +2,7 @@
 layout: post
 title:  "Black n' White"
 date:   2008-06-01
-tags: [photography]
+tags: [Photography]
 preview: "bw.jpg"
 ---
 

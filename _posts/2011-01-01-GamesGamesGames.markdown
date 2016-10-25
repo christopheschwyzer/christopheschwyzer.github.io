@@ -2,7 +2,7 @@
 layout: post
 title:  "Games Games Games"
 date:   2011-01-01
-tags: [bachelor thesis, prototype, 3d]
+tags: [Bachelor Thesis, Prototype, 3d]
 preview: "voxel.png"
 ---
 

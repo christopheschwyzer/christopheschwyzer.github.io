@@ -2,7 +2,7 @@
 layout: post
 title:  "Denkmal.org"
 date:   2016-10-14
-tags: [CI, website]
+tags: [CI, Webdesign, Marketing]
 preview: "denkmal.png"
 ---
 

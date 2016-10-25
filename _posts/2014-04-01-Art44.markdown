@@ -2,7 +2,7 @@
 layout: post
 title:  "Art44 "
 date:   2014-04-01
-tags: [logo]
+tags: [Logo]
 preview: "art44.png"
 ---
 

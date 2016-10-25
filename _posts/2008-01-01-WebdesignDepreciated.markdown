@@ -2,7 +2,7 @@
 layout: post
 title:  "Depreciated Webdesign"
 date:   2008-01-01
-tags: [illustrator, html, css, flash!]
+tags: [Illustrator, Html, CSS, Flash]
 preview: "webdesign.png"
 ---
 

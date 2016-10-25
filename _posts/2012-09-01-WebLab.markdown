@@ -2,7 +2,7 @@
 layout: post
 title:  "Web Lab"
 date:   2012-09-01
-tags: [html5, css3, jquery]
+tags: [Html, CSS, jQuery]
 preview: "rain.png"
 ---
 
