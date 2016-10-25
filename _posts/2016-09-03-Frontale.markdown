@@ -6,7 +6,7 @@ tags: [Redesign, Marketing]
 preview: "frontale-2016.png"
 ---
 
-Second Edition: [Frontâle Festival](http://www.frontale.ch).
+Second Edition: [Frontâle Festival](http://www.frontale.ch) - French Music Festival 2016
 
 ## Webdesign
 ![Frontale](/img/posts/media/frontale-2016/Frontale-App.jpg)

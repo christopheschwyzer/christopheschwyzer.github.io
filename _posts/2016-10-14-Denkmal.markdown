@@ -11,6 +11,9 @@ Redesign for Denkmal Graz launch. [Denkmal.org](http://www.denkmal.org).
 ## Webdesign
 ![Denkmal](/img/posts/media/denkmal/Denkmal-App.jpg)
 
+## Print
+![Denkmal](/img/posts/media/denkmal/Denkmal-Postcard.jpg)
+
 ## Ads
 ![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Absacker.png)
 ![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Montagsdepressionen.png)

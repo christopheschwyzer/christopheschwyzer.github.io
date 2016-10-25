@@ -6,10 +6,14 @@ tags: [Logo, Webdesign]
 preview: "frontale.jpg"
 ---
 
-CI, Website, Shirts for [Frontâle Festival](http://www.frontale.ch).
+[Frontâle Festival](http://www.frontale.ch) - French Music Festival 2015
 
+## Logo Design
 ![Frontale](/img/posts/media/frontale/Frontale-header.png)
 ![Frontale](/img/posts/media/frontale/Frontale-rooster.png)
+
+## Print 
+![Frontale](/img/posts/media/frontale/Frontale-Print.png)
 ![Frontale](/img/posts/media/frontale/Frontale-Shirts.jpg)
 
 ## Resources
