@@ -8,7 +8,13 @@ preview: "frontale-2016.png"
 
 Second Edition: [Frontâle Festival](http://www.frontale.ch).
 
+## Webdesign
+![Frontale](/img/posts/media/frontale-2016/Frontale-App.jpg)
+
+## Print
 ![Frontale](/img/posts/media/frontale-2016/Frontale-Postcard.png)
+![Frontale](/img/posts/media/frontale-2016/Frontale-Impression-1.jpg)
+![Frontale](/img/posts/media/frontale-2016/Frontale-Impression-2.jpg)
 
 ## Resources
 - Illustrator
