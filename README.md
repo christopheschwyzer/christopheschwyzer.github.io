@@ -7,11 +7,11 @@ Static [jekyll](http://jekyllrb.com/) powered website
 
 ## Test site locally
 
-Make sure jekyll is installed
+Make sure dependencies are installed
 ```
-gem install jekyll
+bundle install
 ```
 Build the site and serve it on `http://localhost:4000`
 ```
-jekyll serve --watch
+bundle exec jekyll serve --watch
 ```

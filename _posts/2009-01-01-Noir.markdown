@@ -2,17 +2,17 @@
 layout: post
 title:  "Noir"
 date:   2009-01-01
-tags: [illustration]
-preview: "noir"
+tags: [Illustration]
+preview: "noir.jpg"
 ---
 
 Some old comic drafts.
 
-![Noir](/img/posts/media/Noir1.jpg)
-![Noir](/img/posts/media/Noir2.jpg)
-![Noir](/img/posts/media/Noir3.jpg)
-![Noir](/img/posts/media/Noir4.png)
-![Noir](/img/posts/media/Noir5.png)
+![Noir](/img/posts/media/noir/Noir1.jpg)
+![Noir](/img/posts/media/noir/Noir2.jpg)
+![Noir](/img/posts/media/noir/Noir3.jpg)
+![Noir](/img/posts/media/noir/Noir4.png)
+![Noir](/img/posts/media/noir/Noir5.png)
 
 ## Resources
 - Photoshop

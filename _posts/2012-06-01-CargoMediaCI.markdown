@@ -2,12 +2,15 @@
 layout: post
 title:  "Cargo Media CI"
 date:   2012-06-01
-tags: [logo, CI]
-preview: "cargomedia"
+tags: [Logo, CI, Webdesign]
+preview: "cargomedia.png"
 ---
 
 Create and develop the Cargo Media Corporate Identity. (Including website implementation.) See full website: [www.cargomedia.ch](http://www.cargomedia.ch).
 
-![Cargo Media Logo](/img/posts/media/CargoMediaCI-logo.png)
-![Cargo Media Website](/img/posts/media/CargoMediaCI-Website.png)
-![Cargo Media Website](/img/posts/media/CargoMediaCI-Placeit.jpg)
+## Webdesign 
+![Cargo Media Website](/img/posts/media/cargomedia/CargoMedia-App.jpg)
+![Cargo Media Website](/img/posts/media/cargomedia/CargoMedia-Website.png)
+
+## Logo 
+![Cargo Media Logo](/img/posts/media/cargomedia/CargoMedia-Logo.png)

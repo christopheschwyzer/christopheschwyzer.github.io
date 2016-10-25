@@ -2,15 +2,19 @@
 layout: post
 title:  "Frontâle Festival"
 date:   2015-09-19
-tags: [CI, website]
-preview: "frontale"
+tags: [Logo, Webdesign]
+preview: "frontale.jpg"
 ---
 
-CI, Website, Shirts for [Frontâle Festival](http://www.frontale.ch).
+[Frontâle Festival](http://www.frontale.ch) - French Music Festival 2015
 
-![Frontale](/img/posts/media/Frontale-header.png)
-![Frontale](/img/posts/media/Frontale-rooster.png)
-![Frontale](/img/posts/media/Frontale-Shirts.jpg)
+## Logo Design
+![Frontale](/img/posts/media/frontale/Frontale-header.png)
+![Frontale](/img/posts/media/frontale/Frontale-rooster.png)
+
+## Print 
+![Frontale](/img/posts/media/frontale/Frontale-Print.png)
+![Frontale](/img/posts/media/frontale/Frontale-Shirts.jpg)
 
 ## Resources
 - Illustrator

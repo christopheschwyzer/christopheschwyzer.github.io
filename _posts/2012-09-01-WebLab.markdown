@@ -2,8 +2,8 @@
 layout: post
 title:  "Web Lab"
 date:   2012-09-01
-tags: [html5, css3, jquery]
-preview: "rain"
+tags: [Html, CSS, jQuery]
+preview: "rain.png"
 ---
 
 Web Experiments. See more at [Github](https://github.com/christopheschwyzer/StopheWebLab).

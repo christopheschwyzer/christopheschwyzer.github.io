@@ -2,11 +2,11 @@
 layout: post
 title:  "Inside my Brain"
 date:   2012-06-01
-tags: [MRI, visualisation]
-preview: "brain"
+tags: [MRI, Visualisation]
+preview: "brain.png"
 ---
 
-Have a look inside my head ;)
+Take a look inside my head ;)
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/o7t-qajcxzk" frameborder="0" allowfullscreen></iframe>
 

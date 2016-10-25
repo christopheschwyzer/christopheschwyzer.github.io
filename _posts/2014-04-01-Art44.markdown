@@ -2,10 +2,10 @@
 layout: post
 title:  "Art44 "
 date:   2014-04-01
-tags: [logo]
-preview: "art44"
+tags: [Logo]
+preview: "art44.png"
 ---
 
 Logo for [Art44](http://www.art44.info).
 
-![Art44](/img/posts/media/Art44-Logo.png)
+![Art44](/img/posts/media/art44/Art44-Logo.png)

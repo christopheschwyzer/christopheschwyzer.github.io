@@ -2,15 +2,15 @@
 layout: post
 title:  "Save Me"
 date:   2014-03-01
-tags: [game, illustration]
-preview: "saveme"
+tags: [Game Design, Illustration]
+preview: "save-me.jpg"
 ---
 
 Drafts for a game idea.
 
-![Save Me](/img/posts/media/SaveMe1.png)
-![Save Me](/img/posts/media/SaveMe2.png)
-![Save Me](/img/posts/media/SaveMe3.png)
+![Save Me](/img/posts/media/save-me/SaveMe1.png)
+![Save Me](/img/posts/media/save-me/SaveMe2.png)
+![Save Me](/img/posts/media/save-me/SaveMe3.png)
 
 ## Resources
 - Photoshop
