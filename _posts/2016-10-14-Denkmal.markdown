@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Denkmal.org"
+date:   2016-10-14
+tags: [CI, website]
+preview: "denkmal"
+---
+
+Redesign for Denkmal Graz launch. [Denkmal.org](http://www.denkmal.org).
+
+![Denkmal](/img/posts/media/denkmal/Denkmal-App.png)
+
+## Ads
+![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Absacker.png)
+![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Montagsdepressionen.png)
+![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Nachtaktiv.png)
+![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Schlaflos.png)
+
+## Resources
+- Illustrator
