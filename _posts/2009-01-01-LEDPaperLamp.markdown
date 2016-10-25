@@ -8,7 +8,7 @@ preview: "led"
 
 This Lamp is mainly made out of paper. The half transparent paper gives a nice light, combined with the irregular squares, a real nice effect with almost no costs. Downside of course is that you can barely touch it and its broken ;)
 
-![LED Lamp](/img/posts/media/LEDPaperLamp.png)
+![LED Lamp](/img/posts/media/led/LEDPaperLamp.png)
 
 ## Resources
 

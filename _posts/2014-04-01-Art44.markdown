@@ -8,4 +8,4 @@ preview: "art44"
 
 Logo for [Art44](http://www.art44.info).
 
-![Art44](/img/posts/media/Art44-Logo.png)
+![Art44](/img/posts/media/art44/Art44-Logo.png)

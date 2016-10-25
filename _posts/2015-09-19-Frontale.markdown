@@ -8,9 +8,9 @@ preview: "frontale"
 
 CI, Website, Shirts for [Frontâle Festival](http://www.frontale.ch).
 
-![Frontale](/img/posts/media/Frontale-header.png)
-![Frontale](/img/posts/media/Frontale-rooster.png)
-![Frontale](/img/posts/media/Frontale-Shirts.jpg)
+![Frontale](/img/posts/media/frontale/Frontale-header.png)
+![Frontale](/img/posts/media/frontale/Frontale-rooster.png)
+![Frontale](/img/posts/media/frontale/Frontale-Shirts.jpg)
 
 ## Resources
 - Illustrator

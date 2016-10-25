@@ -3,13 +3,13 @@ layout: post
 title:  "Drawing"
 date:   2008-05-01
 tags: [drawing]
-preview: "akt"
+preview: "drawing"
 ---
 
 Sketches.
 
-![Drawing](/img/posts/media/Drawing1.jpg)
-![Drawing](/img/posts/media/Drawing2.jpg)
-![Drawing](/img/posts/media/Drawing3.jpg)
-![Drawing](/img/posts/media/Drawing4.jpg)
-![Drawing](/img/posts/media/Drawing5.jpg)
+![Drawing](/img/posts/media/drawing/Drawing1.jpg)
+![Drawing](/img/posts/media/drawing/Drawing2.jpg)
+![Drawing](/img/posts/media/drawing/Drawing3.jpg)
+![Drawing](/img/posts/media/drawing/Drawing4.jpg)
+![Drawing](/img/posts/media/drawing/Drawing5.jpg)

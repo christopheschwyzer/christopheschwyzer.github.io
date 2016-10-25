@@ -8,13 +8,13 @@ preview: "webdesign"
 
 Some old webdesign drafts that are either depraciated or have never been realised.
 
-![Webdesign Depreciated](/img/posts/media/Webdesign-BBB.jpg)
-![Webdesign Depreciated](/img/posts/media/Webdesign-BBB2.jpg)
-![Webdesign Depreciated](/img/posts/media/Webdesign-ApartmentSever.jpg)
-![Webdesign Depreciated](/img/posts/media/Webdesign-JessicaBuschor.jpg)
-![Webdesign Depreciated](/img/posts/media/Webdesign-Lernwerk.jpg)
-![Webdesign Depreciated](/img/posts/media/Webdesign-SpitzenOpenair.jpg)
-![Webdesign Depreciated](/img/posts/media/Webdesign-Voxel.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-BBB.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-BBB2.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-ApartmentSever.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-JessicaBuschor.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-Lernwerk.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-SpitzenOpenair.jpg)
+![Webdesign Depreciated](/img/posts/media/webdesign/Webdesign-Voxel.jpg)
 
 ## Resources
 - Illustrator

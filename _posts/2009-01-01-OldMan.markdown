@@ -8,6 +8,6 @@ preview: "painting"
 
 Handmade stuff.
 
-![Old Man](/img/posts/media/OldMan1.jpg)
-![Old Man](/img/posts/media/OldMan2.jpg)
-![Old Man](/img/posts/media/OldMan3.jpg)
+![Old Man](/img/posts/media/painting/OldMan1.jpg)
+![Old Man](/img/posts/media/painting/OldMan2.jpg)
+![Old Man](/img/posts/media/painting/OldMan3.jpg)

@@ -3,9 +3,9 @@ layout: post
 title:  "Cargo Media Avatars"
 date:   2012-10-01
 tags: [illustration, avatar]
-preview: "panda"
+preview: "cargomedia-avatars"
 ---
 
 An Avatar for every employee at Cargo Media. See in action on [www.cargomedia.ch](http://www.cargomedia.ch).
 
-![Avatars Screenshot](/img/posts/media/CargoMediaAvatars.png)
+![Avatars Screenshot](/img/posts/media/cargomedia-avatars/CargoMediaAvatars.png)

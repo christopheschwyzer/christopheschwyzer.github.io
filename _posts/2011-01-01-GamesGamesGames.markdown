@@ -20,7 +20,7 @@ Why video games matter – The following paper discusses the significance of vid
 - Games and Art
 
 
-[Aus Spiel wird Ernst (german)](/img/posts/media/BA_Christophe_Schwyzer_2011_Aus_Spiel_wird_Ernst.pdf)
+[Aus Spiel wird Ernst (german)](/img/posts/media/ba/BA_Christophe_Schwyzer_2011_Aus_Spiel_wird_Ernst.pdf)
 
 
 ## Practical Part
@@ -37,7 +37,7 @@ Das Spiel Voxel ist ein sogenannter Sidescroller. Es gilt den Spieler von A nach
 
 A short summery in pictures about the working process:
 
-[Work in Progress](/img/posts/media/VoxelPrototype-WorkInProgress.pdf)
+[Work in Progress](/img/posts/media/ba/BA-VoxelPrototype-WorkInProgress.pdf)
 
 ### Preview
 

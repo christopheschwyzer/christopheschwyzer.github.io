@@ -8,7 +8,7 @@ preview: "marguerite"
 
 Logo for a raft project.
 
-![Marguerite](/img/posts/media/Marguerite-Logo1.png)
+![Marguerite](/img/posts/media/marguerite/Marguerite-Logo1.png)
 
 ## Resources
 - Photoshop

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Frontâle Festival 2"
+date:   2016-09-03
+tags: [Website, Marketing]
+preview: "frontale-2016"
+---
+
+Second Edition: [Frontâle Festival](http://www.frontale.ch).
+
+![Frontale](/img/posts/media/frontale-2016/Frontale-Postcard.png)
+
+## Resources
+- Illustrator

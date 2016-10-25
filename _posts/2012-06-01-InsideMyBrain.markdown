@@ -6,7 +6,7 @@ tags: [MRI, visualisation]
 preview: "brain"
 ---
 
-Have a look inside my head ;)
+Take a look inside my head ;)
 
 <iframe width="853" height="480" src="http://www.youtube.com/embed/o7t-qajcxzk" frameborder="0" allowfullscreen></iframe>
 

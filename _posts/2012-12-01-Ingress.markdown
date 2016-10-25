@@ -8,10 +8,10 @@ preview: "ingress"
 
 Ingress illustrations to get beta invitation ;)
 
-![Ingress](/img/posts/media/Ingress1.jpg)
-![Ingress](/img/posts/media/Ingress2.jpg)
-![Ingress](/img/posts/media/Ingress3.jpg)
-![Ingress](/img/posts/media/Ingress4.jpg)
+![Ingress](/img/posts/media/ingress/Ingress1.jpg)
+![Ingress](/img/posts/media/ingress/Ingress2.jpg)
+![Ingress](/img/posts/media/ingress/Ingress3.jpg)
+![Ingress](/img/posts/media/ingress/Ingress4.jpg)
 
 ## Resources
 - Photoshop

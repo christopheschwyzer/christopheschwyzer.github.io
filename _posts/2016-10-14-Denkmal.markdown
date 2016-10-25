@@ -8,7 +8,7 @@ preview: "denkmal"
 
 Redesign for Denkmal Graz launch. [Denkmal.org](http://www.denkmal.org).
 
-![Denkmal](/img/posts/media/denkmal/Denkmal-App.png)
+![Denkmal](/img/posts/media/denkmal/Denkmal-App.jpg)
 
 ## Ads
 ![Denkmal](/img/posts/media/denkmal/Denkmal-Ad-Absacker.png)
