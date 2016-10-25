@@ -3,7 +3,7 @@ layout: post
 title:  "Denkmal.org"
 date:   2016-10-14
 tags: [CI, website]
-preview: "denkmal"
+preview: "denkmal.png"
 ---
 
 Redesign for Denkmal Graz launch. [Denkmal.org](http://www.denkmal.org).

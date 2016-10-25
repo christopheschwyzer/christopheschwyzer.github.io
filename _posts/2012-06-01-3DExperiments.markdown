@@ -3,7 +3,7 @@ layout: post
 title:  "3D Experiments"
 date:   2012-06-01
 tags: [3d]
-preview: "3d"
+preview: "3d.jpg"
 ---
 
 Some experiments with 3d software.

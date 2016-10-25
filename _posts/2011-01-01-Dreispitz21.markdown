@@ -3,7 +3,7 @@ layout: post
 title:  "Dreispitz21"
 date:   2011-01-01
 tags: [3d]
-preview: "dreispitz21"
+preview: "dreispitz21.png"
 ---
 
 Futuristic model for the headquarters of the Academy of Art and Design Basel.

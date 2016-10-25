@@ -3,7 +3,7 @@ layout: post
 title:  "Noir"
 date:   2009-01-01
 tags: [illustration]
-preview: "noir"
+preview: "noir.jpg"
 ---
 
 Some old comic drafts.

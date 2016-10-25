@@ -3,7 +3,7 @@ layout: post
 title:  "Portraits"
 date:   2009-01-01
 tags: [illustration]
-preview: "portrait"
+preview: "portrait.jpg"
 ---
 
 ![Portrait](/img/posts/media/portrait/Portrait1.jpg)

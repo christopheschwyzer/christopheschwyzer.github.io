@@ -3,7 +3,7 @@ layout: post
 title:  "Kingchiller"
 date:   2008-07-01
 tags: [label, shirts]
-preview: "kingchiller"
+preview: "kingchiller.png"
 ---
 
 "Fashion brand idea"

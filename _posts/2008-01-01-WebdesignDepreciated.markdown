@@ -3,7 +3,7 @@ layout: post
 title:  "Depreciated Webdesign"
 date:   2008-01-01
 tags: [illustrator, html, css, flash!]
-preview: "webdesign"
+preview: "webdesign.png"
 ---
 
 Some old webdesign drafts that are either depraciated or have never been realised.

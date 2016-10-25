@@ -3,7 +3,7 @@ layout: post
 title:  "Black n' White"
 date:   2008-06-01
 tags: [photography]
-preview: "friends"
+preview: "bw.jpg"
 ---
 
 Sketches.

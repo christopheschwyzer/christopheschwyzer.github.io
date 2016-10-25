@@ -3,7 +3,7 @@ layout: post
 title:  "Cargo Media CI"
 date:   2012-06-01
 tags: [logo, CI]
-preview: "cargomedia"
+preview: "cargomedia.png"
 ---
 
 Create and develop the Cargo Media Corporate Identity. (Including website implementation.) See full website: [www.cargomedia.ch](http://www.cargomedia.ch).

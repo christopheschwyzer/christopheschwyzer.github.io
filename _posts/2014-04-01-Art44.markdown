@@ -3,7 +3,7 @@ layout: post
 title:  "Art44 "
 date:   2014-04-01
 tags: [logo]
-preview: "art44"
+preview: "art44.png"
 ---
 
 Logo for [Art44](http://www.art44.info).

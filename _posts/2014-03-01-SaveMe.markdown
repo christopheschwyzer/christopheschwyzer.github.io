@@ -3,7 +3,7 @@ layout: post
 title:  "Save Me"
 date:   2014-03-01
 tags: [game, illustration]
-preview: "save-me"
+preview: "save-me.jpg"
 ---
 
 Drafts for a game idea.

@@ -3,7 +3,7 @@ layout: post
 title:  "Games Games Games"
 date:   2011-01-01
 tags: [bachelor thesis, prototype, 3d]
-preview: "voxel"
+preview: "voxel.png"
 ---
 
 ## Bachelor Thesis,  LGK, HGK, FHNW 2011

@@ -3,7 +3,7 @@ layout: post
 title:  "Schiff Mode"
 date:   2014-07-01
 tags: [logo]
-preview: "schiff-mode"
+preview: "schiff-mode.png"
 ---
 
 Logo for a the organisation "Schiff Mode".

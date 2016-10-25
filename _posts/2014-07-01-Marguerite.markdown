@@ -3,7 +3,7 @@ layout: post
 title:  "Marguerite "
 date:   2014-07-01
 tags: [logo]
-preview: "marguerite"
+preview: "marguerite.png"
 ---
 
 Logo for a raft project.

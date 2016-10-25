@@ -3,7 +3,7 @@ layout: post
 title:  "Inside my Brain"
 date:   2012-06-01
 tags: [MRI, visualisation]
-preview: "brain"
+preview: "brain.png"
 ---
 
 Take a look inside my head ;)

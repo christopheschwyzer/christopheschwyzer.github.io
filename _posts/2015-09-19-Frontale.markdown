@@ -3,7 +3,7 @@ layout: post
 title:  "Frontâle Festival"
 date:   2015-09-19
 tags: [CI, website]
-preview: "frontale"
+preview: "frontale.jpg"
 ---
 
 CI, Website, Shirts for [Frontâle Festival](http://www.frontale.ch).

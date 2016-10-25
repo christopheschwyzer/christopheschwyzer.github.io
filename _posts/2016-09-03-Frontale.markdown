@@ -3,7 +3,7 @@ layout: post
 title:  "Frontâle Festival 2"
 date:   2016-09-03
 tags: [Website, Marketing]
-preview: "frontale-2016"
+preview: "frontale-2016.png"
 ---
 
 Second Edition: [Frontâle Festival](http://www.frontale.ch).
